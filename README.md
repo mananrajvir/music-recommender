@@ -1,1 +1,1 @@
-# music-recommender
+This repository contains a hybrid song recommendation system built using KMeans clustering and K-Nearest Neighbors (KNN). By leveraging audio features, the system groups songs into clusters and then uses KNN to find similar tracks within each cluster, delivering personalized recommendations. This project showcases how combining unsupervised and supervised learning techniques can enhance music recommendation engines.
